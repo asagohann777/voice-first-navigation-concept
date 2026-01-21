@@ -2,7 +2,7 @@
 # 音声ファーストナビゲーションコンセプト
 Voice-First Navigation Concept
 
-## 概要 / Overview
+## 概要 
 このリポジトリは、**音声を主軸としたナビゲーションおよびガイダンスの設計思想と構造**を共有するためのコンセプトリポジトリです。
 
 画面を見ることを前提とせず、  
@@ -14,7 +14,7 @@ This repository shares the **design philosophy and structural concept** of a nav
 ## Origin
 ---
 
-## なぜ、音声ファースト・ナビゲーションなのか（Why Voice-First Navigation）
+## なぜ、音声ファースト・ナビゲーションなのか
 
 本コンセプトは、画面操作を前提とした従来のUI設計に対する問題意識から生まれています。
 
@@ -54,7 +54,7 @@ of Tenchi-Ai Project / Ojichan Konbini.
 
 This repository does not assert implementation ownership.
 It exists to share conceptual and design perspectives.
-## このコンセプトが目指すもの / What This Concept Aims For
+## このコンセプトが目指すもの 
 
 - ユーザーが画面を見ていることを前提にしない  
 - 音声による誘導・確認・判断を中心とした体験設計  
