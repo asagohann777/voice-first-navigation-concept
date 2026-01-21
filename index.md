@@ -1,13 +1,16 @@
-# Voice-First Navigation Concept
+# 音声ファーストナビゲーションコンセプト
 
-This page presents an experimental concept for a **voice-first navigation and guidance system**.
+このページは、音声を中心としたナビゲーションおよびガイダンスシステムの
+**設計思想と構造**を共有するためのコンセプトページです。
 
-The core idea is simple:
+## このコンセプトの考え方
+従来のUIは「画面を見ること」を前提に設計されています。
+本コンセプトでは、以下を重視します。
 
-- Do not assume users are looking at a screen  
-- Prioritize listening, speaking, and confirmation  
-- Support multilingual, hands-free, and inclusive navigation  
+- ユーザーが画面を見ていることを前提にしない
+- 聞く・話す・確認するという自然な行動を中心に設計する
+- ハンズフリー、多言語、アクセシビリティを考慮する
 
-This repository focuses on **design philosophy and structure**, not implementation.
-
-Status: Concept & exploration phase.
+## ステータス
+本リポジトリは実装コードではなく、
+**設計思想と構造の検討段階**にあります。
