@@ -1,6 +1,5 @@
 > This repository is a **conceptual reference**, not an implementation. English version: see README_EN.md
 # 音声ファーストナビゲーションコンセプト
-Voice-First Navigation Concept
 
 ## 概要 
 このリポジトリは、**音声を主軸としたナビゲーションおよびガイダンスの設計思想と構造**を共有するためのコンセプトリポジトリです。
