@@ -11,7 +11,13 @@ Voice-First Navigation Concept
 This repository shares the **design philosophy and structural concept** of a navigation and guidance system that places **voice as the primary interface**.
 
 ---
+## Origin
 
+This concept originated from the ideas and design philosophy
+of Tenchi-Ai Project / Ojichan Konbini.
+
+This repository does not assert implementation ownership.
+It exists to share conceptual and design perspectives.
 ## このコンセプトが目指すもの / What This Concept Aims For
 
 - ユーザーが画面を見ていることを前提にしない  
