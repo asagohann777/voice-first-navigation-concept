@@ -63,7 +63,7 @@ It exists to share conceptual and design perspectives.
 
 ---
 
-## これは「何ではないか」 / What This Is Not
+## 本コンセプトの範囲と前提
 
 - 実装コードの提供は行いません  
 - 特定のUIやプロダクト仕様を固定しません  
@@ -74,7 +74,7 @@ It is a shared **conceptual and structural reference**.
 
 ---
 
-## 想定される活用者 / Intended Audience
+## 想定される読者（活用者）
 
 - プロダクトデザイナー  
 - UX / UI 設計者  
@@ -83,13 +83,14 @@ It is a shared **conceptual and structural reference**.
 
 ---
 
-## ステータス / Status
+## ステータス 
 
 - 段階：設計思想・構造の検討フェーズ  
 - 状態：オープンコンセプト（自由解釈・発展歓迎）
 
 ---
 
-## ライセンス / License
+## ライセンス 
 
 このコンセプトは、自由な議論・派生・実装検討のために公開されています。
+※ 本コンセプトは、「天地愛プロジェクト（おじいちゃんコンビニ）」による企画・構想を起点として整理されたものです。
