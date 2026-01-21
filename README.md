@@ -14,7 +14,7 @@ This repository shares the **design philosophy and structural concept** of a nav
 ## Origin
 ---
 
-## なぜ、音声ファースト・ナビゲーションなのか
+## なぜ音声ファースト・ナビゲーションなのか
 
 本コンセプトは、画面操作を前提とした従来のUI設計に対する問題意識から生まれています。
 
@@ -63,7 +63,7 @@ It exists to share conceptual and design perspectives.
 
 ---
 
-## 本コンセプトの範囲と前提
+## 本コンセプトの前提
 
 - 実装コードの提供は行いません  
 - 特定のUIやプロダクト仕様を固定しません  
