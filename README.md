@@ -1,92 +1,59 @@
-# 音声ファースト・ナビゲーションコンセプト  
-（Voice-First Navigation Concept）
+# Voice-First Navigation Concept
 
-## 概要
-本リポジトリは、**音声を起点としたナビゲーションおよびガイダンスシステム**の
-設計思想・構造コンセプトをオープンに共有するためのものです。
+## Overview
+This repository shares the **design philosophy and structural concept** of a navigation and guidance system that places **voice as the primary interface**.
 
-画面を見ることを前提とせず、  
-「聞く」「話す」「確認する」という人間本来の行動順に沿った  
-**音声ファースト（Voice-First）**の思想を中核に据えています。
+Rather than assuming that users always look at a screen, this concept is built around natural human actions:
+**listening, speaking, and confirming**.
 
-本リポジトリは、実装コードそのものではなく、  
-**設計思想・構造の考え方・前提条件**を公開することを目的としています。
+The core idea is **Voice-First** — allowing users to move, decide, and act without being visually dependent on displays.
 
----
+## Purpose of This Repository
+This repository does **not** provide implementation code.
 
-## 背景と問題意識
-多くのナビゲーションや支援システムは、  
-依然として「画面操作」を前提に設計されています。
+Its purpose is to openly share:
+- Design principles
+- Structural ideas
+- Preconditions and assumptions
 
-しかし実際の利用シーンでは、
+so that developers, designers, and planners can freely interpret and implement the concept in their own environments.
 
-- 移動中
-- 作業中
-- 高齢者・子ども・外国人利用者
-- 視覚に制約がある状況
+## Background and Problem Awareness
+Many existing navigation and support systems are designed with the assumption of **screen-based operation**.
 
-など、**画面を注視できない場面**が多数存在します。
+However, in real-world usage scenarios — such as:
+- walking
+- driving
+- working
+- assisting others
+- visually restricted situations
 
-本コンセプトは、  
-「視覚が使えない前提でも成立するナビゲーションとは何か」  
-という問いから出発しています。
+continuous visual interaction is often unrealistic or unsafe.
 
----
+## Core Concept: Voice-First
+The Voice-First approach redefines navigation flow:
 
-## コンセプトの中核思想
+1. **Voice as the starting point**, not an optional add-on  
+2. **Minimal visual dependency**  
+3. **Context-aware spoken guidance**  
+4. **Confirmation through natural dialogue**, not taps or clicks  
 
-### 1. 音声を主、画面を従にする
-音声を第一インターフェースとし、  
-画面表示は補助的な役割に留めます。
+This concept treats voice not as an accessibility feature, but as a **primary interaction layer**.
 
-### 2. 会話構造によるナビゲーション
-一方的な読み上げではなく、  
-確認・選択・訂正を含む**対話型構造**を前提とします。
+## Expected Applications
+- Tourism and city navigation
+- Accessibility-focused systems
+- Elderly support and care
+- Hands-free work environments
+- Multilingual guidance systems
+- Emergency and safety guidance
 
-### 3. 状況文脈（コンテキスト）を重視
-位置情報、時間帯、利用者の状態などを考慮し、  
-「今、何を伝えるべきか」を動的に判断します。
+## Philosophy
+Technology should adapt to **human behavior**, not the other way around.
 
-### 4. 多言語・多文化対応を前提にする
-翻訳ではなく、  
-**意味と行動を伝える音声ガイダンス**を重視します。
-
----
-
-## 想定ユースケース（一例）
-
-- 観光地・施設内の音声ナビゲーション
-- 高齢者向け生活支援ガイド
-- 視覚負荷を減らした業務支援
-- 多言語対応の公共案内
-- AIエージェントによる行動誘導
+Voice is the most natural interface humans possess.
+This concept is an attempt to return navigation and guidance systems to that fundamental principle.
 
 ---
 
-## オープンにする理由
-本コンセプトは、特定の製品や企業に閉じるものではなく、  
-**社会実装されてこそ意味を持つ思想**です。
-
-そのため本リポジトリでは、
-
-- 設計思想
-- 構造の考え方
-- 判断基準
-
-をオープンに公開し、  
-開発者・研究者・企画者が自由に発展させられる土台とします。
-
----
-
-## 免責・注意事項
-本リポジトリは思想・概念の共有を目的としており、  
-特定の実装・成果・動作を保証するものではありません。
-
----
-
-## 最後に
-「見る社会」から  
-「聞いて理解し、行動できる社会」へ。
-
-このコンセプトが、  
-人と技術の距離を一段縮める一助となれば幸いです。
+*This concept is intentionally open and abstract, inviting reinterpretation and evolution.*
