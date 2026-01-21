@@ -1,4 +1,4 @@
-> This repository also provides an English version: see README_EN.md
+> This repository is a **conceptual reference**, not an implementation. English version: see README_EN.md
 # 音声ファーストナビゲーションコンセプト
 Voice-First Navigation Concept
 
