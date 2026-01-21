@@ -1,59 +1,52 @@
-# Voice-First Navigation Concept
+# 音声ファーストナビゲーションコンセプト
+Voice-First Navigation Concept
 
-## Overview
+## 概要 / Overview
+このリポジトリは、**音声を主軸としたナビゲーションおよびガイダンスの設計思想と構造**を共有するためのコンセプトリポジトリです。
+
+画面を見ることを前提とせず、  
+**「聞く・話す・確認する」**という人間の自然な行動を中心に設計します。
+
 This repository shares the **design philosophy and structural concept** of a navigation and guidance system that places **voice as the primary interface**.
-
-Rather than assuming that users always look at a screen, this concept is built around natural human actions:
-**listening, speaking, and confirming**.
-
-The core idea is **Voice-First** — allowing users to move, decide, and act without being visually dependent on displays.
-
-## Purpose of This Repository
-This repository does **not** provide implementation code.
-
-Its purpose is to openly share:
-- Design principles
-- Structural ideas
-- Preconditions and assumptions
-
-so that developers, designers, and planners can freely interpret and implement the concept in their own environments.
-
-## Background and Problem Awareness
-Many existing navigation and support systems are designed with the assumption of **screen-based operation**.
-
-However, in real-world usage scenarios — such as:
-- walking
-- driving
-- working
-- assisting others
-- visually restricted situations
-
-continuous visual interaction is often unrealistic or unsafe.
-
-## Core Concept: Voice-First
-The Voice-First approach redefines navigation flow:
-
-1. **Voice as the starting point**, not an optional add-on  
-2. **Minimal visual dependency**  
-3. **Context-aware spoken guidance**  
-4. **Confirmation through natural dialogue**, not taps or clicks  
-
-This concept treats voice not as an accessibility feature, but as a **primary interaction layer**.
-
-## Expected Applications
-- Tourism and city navigation
-- Accessibility-focused systems
-- Elderly support and care
-- Hands-free work environments
-- Multilingual guidance systems
-- Emergency and safety guidance
-
-## Philosophy
-Technology should adapt to **human behavior**, not the other way around.
-
-Voice is the most natural interface humans possess.
-This concept is an attempt to return navigation and guidance systems to that fundamental principle.
 
 ---
 
-*This concept is intentionally open and abstract, inviting reinterpretation and evolution.*
+## このコンセプトが目指すもの / What This Concept Aims For
+
+- ユーザーが画面を見ていることを前提にしない  
+- 音声による誘導・確認・判断を中心とした体験設計  
+- ハンズフリー、多言語、アクセシビリティへの配慮  
+- 移動中・作業中・視線を使えない状況でも成立するナビゲーション
+
+---
+
+## これは「何ではないか」 / What This Is Not
+
+- 実装コードの提供は行いません  
+- 特定のUIやプロダクト仕様を固定しません  
+- 完成形を定義するものではありません  
+
+This is **not** an implementation repository.  
+It is a shared **conceptual and structural reference**.
+
+---
+
+## 想定される活用者 / Intended Audience
+
+- プロダクトデザイナー  
+- UX / UI 設計者  
+- 音声インターフェース開発者  
+- ナビゲーション・ガイダンス設計に関わる企画者
+
+---
+
+## ステータス / Status
+
+- 段階：設計思想・構造の検討フェーズ  
+- 状態：オープンコンセプト（自由解釈・発展歓迎）
+
+---
+
+## ライセンス / License
+
+このコンセプトは、自由な議論・派生・実装検討のために公開されています。
